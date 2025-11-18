@@ -1,7 +1,11 @@
 {
   "mainAssemblyName": "catalogoMarketing",
   "resources": {
+<<<<<<< HEAD
     "hash": "sha256-WMMKLVSt5OX/flvoG7iCl6aVAeFA69xry0G0lS4euv8=",
+=======
+    "hash": "sha256-DlrMU7CiRLlQZ4Kr+HrpJ/r8/M4aWeKDCRUDykjT1SM=",
+>>>>>>> cba8ad6cb8f624409243c690e4a1a907c39efde2
     "jsModuleNative": {
       "dotnet.native.js": "sha256-omLTFz0mF5MD7AJruiybkdFiufBlBI7RiL8HXfw/JGQ="
     },
@@ -49,7 +53,11 @@
       "System.Text.Json.wasm": "sha256-uRyU5bF50OLCg7N6u2r2JBGbsH+DH9sNF9wbvWmtipY=",
       "System.Text.RegularExpressions.wasm": "sha256-tCTxwg2N3nkoTMDAtfc+X4iVUDF7K9iBuzpAhgC284E=",
       "System.Private.CoreLib.wasm": "sha256-MTo9uM5N3F7qd+iirtone2x5CFWrHgah9+qofCK28jg=",
+<<<<<<< HEAD
       "catalogoMarketing.wasm": "sha256-SlOEwkbrxY5Edr/YDRMQs0o5VwymL6q2pdVrCRTlodc="
+=======
+      "catalogoMarketing.wasm": "sha256-DiCEqGto+YbXSKOqqJtueTlnp7EV+c/uFgIRmdqMz2k="
+>>>>>>> cba8ad6cb8f624409243c690e4a1a907c39efde2
     }
   },
   "cacheBootResources": true,

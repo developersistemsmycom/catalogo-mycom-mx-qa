@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* catalogo-mycom-mx-qa/Layout/MainLayout.razor.rz.scp.css */
+=======
+/* /Layout/MainLayout.razor.rz.scp.css */
+>>>>>>> cba8ad6cb8f624409243c690e4a1a907c39efde2
 .page[b-qoy474rzhf] {
     position: relative;
     display: flex;
@@ -76,7 +80,11 @@ main[b-qoy474rzhf] {
         padding-right: 1.5rem !important;
     }
 }
+<<<<<<< HEAD
 /* catalogo-mycom-mx-qa/Layout/NavMenu.razor.rz.scp.css */
+=======
+/* /Layout/NavMenu.razor.rz.scp.css */
+>>>>>>> cba8ad6cb8f624409243c690e4a1a907c39efde2
 .navbar-toggler[b-ph7h8vyly8] {
     background-color: rgba(255, 255, 255, 0.1);
 }
