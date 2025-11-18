@@ -1,0 +1,40 @@
+{
+  "Tipo": "Hera",
+  "Titulo": "/imagenes/Nantsune/HeraLogoBLANCO.png",
+  "Video": "videos/toridas.mp4",
+  "Imagen": "/imagenes/Nantsune/Hera.png",
+  "ImagenDimension": "/imagenes/Nantsune/Hera.png",
+  "Caracteristicas": [
+  {
+    "Texto": "Hasta 380 rebanadas por minuto."
+  },
+  {
+    "Texto": "Sensores de paro automático en las coberturas frontales."
+  },
+  {
+    "Texto": "Rebanadas de hasta 1 mm de espesor."
+  },
+  {
+    "Texto": "Índice de merma mejorado."
+  },
+  {
+    "Texto": "Sujetador automático de enganche."
+  },
+  {
+    "Texto": "No requiere herramienta especializada para su limpieza."
+  }
+
+  ],
+  "Espesor": [
+
+{
+  "Texto": "0-3.0mm 380rpm 0-8.0mm 250rpm"
+},
+{
+  "Texto": "0-4.0mm 350rpm 0-15mm 200rpm"
+},
+{
+  "Texto": "0-5.0mm 315rpm 0-30 mm 140rpm"
+}
+  ]
+}

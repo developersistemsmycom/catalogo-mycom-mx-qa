@@ -1,0 +1,344 @@
+{
+  "Titulo": "/imagenes/Logo-nantsune.png",
+  "Descripcion": "Tecnología japonesa para el corte de carne y pescado. Alta precisión, eficiencia y limpieza para plantas procesadoras que buscan optimizar sus procesos.",
+  "Imagen": "/imagenes/Nantuze/Fondo-máquinas.png",
+  "Logo": "url_logo.png",
+  "Elementos": [
+    {
+      "Tipo": "PoseidonII",
+      "Titulo": "/imagenes/Nantsune/Poseidon logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "/imagenes/Nantsune/Poseidon-II.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Hasta 420 rebanadas por minuto"
+        },
+        {
+          "Texto": "Rebana pulpas con un ancho de 360, 700 de largo y 200 mm de alto en temperaturas de -5C a -2C"
+        },
+        {
+          "Texto": "Rebanadas de hasta 0.1 mm espesor"
+        },
+        {
+          "Texto": "indice de merma de tan solo 17 mm"
+        },
+        {
+          "Texto": "Hasta 420 cortes por minuto"
+        },
+        {
+          "Texto": "Sujetador automatico de enganche"
+        },
+        {
+          "Texto": "Garra de fijacion por aire forzado, este mecanismo evita accidentes"
+        },
+        {
+          "Texto": "No requiere herramienta especializada para su limpieza"
+        },
+        {
+          "Texto": "Espesor por rebanada"
+        },
+        {
+          "Texto": "0-3.0mm 420rpm 0-3.5mm 400rpm"
+        },
+        {
+          "Texto": "0-4.0mm 380rpm 0-4.5mm 365rpm"
+        },
+        {
+          "Texto": "0-5.0mm 345rpm 0-6.0mm 330rpm"
+        },
+        {
+          "Texto": "0-7.0mm 310rpm 0-8.0mm 300rpm"
+        },
+        {
+          "Texto": "0-15.0mm 240rpm 0-30mm 160rpm"
+        }
+      ]
+    },
+    {
+      "Tipo": "Hera",
+      "Titulo": "/imagenes/Nantsune/HeraLogoBLANCO.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "/imagenes/Nantsune/Hera.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Hasta 380 rebanadas por minuto"
+        },
+        {
+          "Texto": "Sensores de paro automático en las coberturas frontales"
+        },
+        {
+          "Texto": "Rebanadas de hasta 1 mm de espesor"
+        },
+        {
+          "Texto": "Indice de merma mejorado"
+        },
+        {
+          "Texto": "Sujetador automático de enganche"
+        },
+        {
+          "Texto": "No requiere herramienta especializada para su limpieza"
+        },
+        {
+          "Texto": "Espesor por rebanada"
+        },
+        {
+          "Texto": "0-3.0mm 380rpm 0-8.0mm 250rpm"
+        },
+        {
+          "Texto": "0-4.0mm 350rpm 0-15mm 200rpm"
+        },
+        {
+          "Texto": "0-5.0mm 315rpm 0-30 mm 140rpm"
+        }
+      ]
+    },
+    {
+      "Tipo": "IKSC_300",
+      "Titulo": "/imagenes/Nantsune/IKSC 300 logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "/imagenes/Nantsune/IKSC.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Equipo de corte rápido para producto congelado en cubos, tiras y hojuelas"
+        },
+        {
+          "Texto": "Realiza hasta 1100 cortes por minuto o 450 kg por hora"
+        },
+        {
+          "Texto": "Proceso de rebanado en dos partes:-Realiza el corte en tiras de 6mm a 30mm de grosor -Segundo corte por medio de un cilindro giratorio de dos navajas"
+        },
+        {
+          "Texto": "Sus ajustes por botoneras son sencillos y fáciles para los operadores"
+        },
+        {
+          "Texto": "Rebana las pulpas con un ancho de 260 mm y una altura menor al marco de la cuchilla de corte"
+        },
+        {
+          "Texto": "Tamaños del cortador:"
+        },
+        {
+          "Texto": "6,8,10,15 mm"
+        },
+        {
+          "Texto": "20,25,30 mm"
+        },
+        {
+          "Texto": "La temperatura de rebanada optima -6°C a -2°C"
+        },
+        {
+          "Texto": "No requiere herramienta especializada para su limpieza"
+        }
+      ]
+    },
+    {
+      "Tipo": "HS360",
+      "Titulo": "/imagenes/Nantsune/HS360 logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "/imagenes/Nantsune/HS360.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Hasta 1800kg por hora"
+        },
+        {
+          "Texto": "Los juegos de cuchillas permiten obtener distintos grosores del producto"
+        },
+        {
+          "Texto": "Superficie de corte afilada y sube a la vez"
+        },
+        {
+          "Texto": "Índice de merma mejorado"
+        },
+        {
+          "Texto": "La temperatura recomendada de carne a rebanadas entre 1°C a 5°C, siendo ideal para embutidos o productos precocinados y refrigerados"
+        },
+        {
+          "Texto": "La unidas corta en paralelo de un corte a otro"
+        },
+        {
+          "Texto": "Amplio espacio de carga de hasta 355 mm de ancho,400mm de largo, 175 mm de alto"
+        }
+      ]
+    },
+    {
+      "Tipo": "NF350-AY",
+      "Titulo": "/imagenes/Nantsune/NF350AY logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "/imagenes/Nantsune/NF350AY.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Protege al operador de lesiones por corte con cuchilla, sus soportes antiderrapantes, y agarraderas para realizar cortes manuales mantienen las manos de operadores lejos de la navaja"
+        },
+        {
+          "Texto": "Opción de corte diagonal para cortes con mayor vista"
+        },
+        {
+          "Texto": "40 a 60 rebanadas por minuto(rpm)"
+        },
+        {
+          "Texto": "Sin merma al final del rebanado"
+        },
+        {
+          "Texto": "Sujetador automático de enganche"
+        },
+        {
+          "Texto": "Garra de fijación por aire forzado, este mecanismo evita accidentes"
+        },
+        {
+          "Texto": "No requiere herramienta especializada para su limpieza"
+        },
+        {
+          "Texto": "Espesor por rebanada"
+        },
+        {
+          "Texto": "0–3.0mm 420rpm 0–3.5mm 400rpm"
+        },
+        {
+          "Texto": "0–4.0mm 380rpm 0–4.5mm 365rpm"
+        },
+        {
+          "Texto": "0-5.0mm 345rpm 0-6.0mm 330rpm"
+        },
+        {
+          "Texto": "0–7.0mm 310rpm 0–8.0mm 300rpm"
+        },
+        {
+          "Texto": "0-15.0mm 240rpm 0-30.0mm 160rpm"
+        }
+      ]
+    },
+    {
+      "Tipo": "Jupiter_III",
+      "Titulo": "imagenes/Nantsune/Jupiter logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "imagenes/Nantsune/HUPITER-III.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Panel táctil para su fácil operación y ordenamiento por grupos de rebanadas"
+        },
+        {
+          "Texto": "Cortadora de alta producción con doble cuchilla circular"
+        },
+        {
+          "Texto": "Se puede rebanar material de 340 mm de ancho,180 mm de altura y 600 mm de largo a temperatura entre -2°C a 4°C"
+        },
+        {
+          "Texto": "Se puede apilar los cortes en efecto dominó y separarlos en grupos"
+        },
+        {
+          "Texto": "Realiza hasta 320 cortes por minuto con juste en grosor de 0.1 a 40 mm"
+        },
+        {
+          "Texto": "Cuenta con banda trasportadora para facilitar el empaque final en charola o plato"
+        },
+        {
+          "Texto": "No requiere herramienta especializada para su limpieza"
+        }
+      ]
+    },
+    {
+      "Tipo": "ARESII",
+      "Titulo": "imagenes/Nantsune/Ares logo_1.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "imagenes/Nantsune/Ares.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Compartimento de 36 mm de ancho"
+        },
+        {
+          "Texto": "Regula el espesor de tus rebanadas desde 0.1 mm"
+        },
+        {
+          "Texto": "Panel táctil para su fácil operación"
+        },
+        {
+          "Texto": "Realiza hasta 315 rebanadas por minuto"
+        },
+        {
+          "Texto": "La temperatura recomendada de carne es de -5°C a -2°C"
+        },
+        {
+          "Texto": "No requiere herramienta especial para su limpieza"
+        },
+        {
+          "Texto": "El inversor permite realizar el cambio de marcha según el grosor"
+        },
+        {
+          "Texto": "Espesor por rebanada"
+        },
+        {
+          "Texto": "0-3.0mm 315 rpm 0-15mm 200 rpm"
+        },
+        {
+          "Texto": "0-4.0mm 258 rpm 0-30 mm 140 rpm"
+        },
+        {
+          "Texto": "0-8.0mm 250 rpm"
+        }
+      ]
+    },
+    {
+      "Tipo": "PEGASUS",
+      "Titulo": "imagenes/Nantsune/Pegasus logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "imagenes/Nantsune/Pegasus.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Compartimento de 36 mm de ancho"
+        },
+        {
+          "Texto": "Regula el espesor de tus rebanadas desde 0.1 mm"
+        },
+        {
+          "Texto": "Panel táctil para su fácil operación"
+        },
+        {
+          "Texto": "Realiza hasta 315 rebanadas por minuto"
+        },
+        {
+          "Texto": "La temperatura recomendada de carne es de -5°C a -2°C"
+        },
+        {
+          "Texto": "No requiere herramienta especial para su limpieza"
+        },
+        {
+          "Texto": "El inversor permite realizar el cambio de marcha según el grosor"
+        }
+      ]
+    },
+    {
+      "Tipo": "Unicorn",
+      "Titulo": "imagenes/Nantsune/Unicorn logo.png",
+      "Video": "url_video_1.mp4",
+      "Imagen": "imagenes/Nantsune/Unicorn.png",
+      "ImagenDimension": "url_imagen_elemento1.jpg",
+      "Caracteristicas": [
+        {
+          "Texto": "Temperatura ideal de rebano de -1°C a 3°C"
+        },
+        {
+          "Texto": "Capacidad de rebano de 35 rebanados por minuto con grosores de 0.1 a 5 mm"
+        },
+        {
+          "Texto": "Capcidad mázima de carga de 7kg"
+        },
+        {
+          "Texto": "Diámetro de cuchilla circular de 234mm"
+        },
+        {
+          "Texto": "Dimensiones del producto a rebanar de 180 mm de ancho, 100 mm alto y 270 mm del largo"
+        },
+        {
+          "Texto": "No requiere de piezas especiales para su limpieza y labado"
+        }
+      ]
+    }
+  ]
+}
