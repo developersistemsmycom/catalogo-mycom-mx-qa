@@ -1,0 +1,31 @@
+{
+  "Tipo": "HS360",
+  "Titulo": "/imagenes/Nantsune/HS360 logo.png",
+  "Video": "url_video_1.mp4",
+  "Imagen": "/imagenes/Nantsune/HS360.png",
+  "ImagenDimension": "url_imagen_elemento1.jpg",
+  "Caracteristicas": [
+    {
+      "Texto": "Hasta 1800kg por hora."
+    },
+    {
+      "Texto": "Los juegos de cuchillas permiten obtener distintos grosores del producto."
+    },
+    {
+      "Texto": "Superficie de corte afilada y sube a la vez."
+    },
+    {
+      "Texto": "Índice de merma mejorado."
+    },
+    {
+      "Texto": "La temperatura recomendada de carne a rebanadas entre 1°C a 5°C, siendo ideal para embutidos o productos precocinados y refrigerados."
+    },
+    {
+      "Texto": "La unidad corta en paralelo de un corte a otro."
+    },
+    {
+      "Texto": "Amplio espacio de carga de hasta 355mm de ancho,400mm de largo, 175mm de alto."
+    }
+  ],
+  "Espesor":[]
+}

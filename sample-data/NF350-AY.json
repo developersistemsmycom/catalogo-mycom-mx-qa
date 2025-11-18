@@ -1,0 +1,63 @@
+{
+  "Tipo": "NF350-AY",
+  "Titulo": "/imagenes/Nantsune/NF350AY logo.png",
+  "Video": "url_video_1.mp4",
+  "Imagen": "/imagenes/Nantsune/NF350AY.png",
+  "ImagenDimension": "url_imagen_elemento1.jpg",
+  "Caracteristicas": [
+    {
+      "Texto": "Protege al operador de lesiones por corte con cuchilla, sus soportes antiderrapantes, y agarraderas para realizar cortes manuales mantienen las manos de operadores lejos de la navaja."
+    },
+    {
+      "Texto": "Opción de corte diagonal para cortes con mayor vista."
+    },
+    {
+      "Texto": "40 a 60 rebanadas por minuto(rpm)."
+    },
+    {
+      "Texto": "Sin merma al final del rebanado."
+    },
+    {
+      "Texto": "Sujetador automático de enganche."
+    },
+    {
+      "Texto": "Garra de fijación por aire forzado, este mecanismo evita accidentes."
+    },
+    {
+      "Texto": "No requiere herramienta especializada para su limpieza."
+    }
+  ],
+  "Espesor": [
+
+    {
+      "Texto": "0-3.0mm 420rpm "
+    },
+    {
+      "Texto": "0-4.0mm 380rpm "
+    },
+    {
+      "Texto": "0-5.0mm 345rpm "
+    },
+    {
+      "Texto": "0-7.0mm 310rpm "
+    },
+    {
+      "Texto": "0-15.0mm 240rpm "
+    },
+    {
+      "Texto": "0-3.5mm 400rpm"
+    },
+    {
+      "Texto": " 0-4.5mm 365rpm"
+    },
+    {
+      "Texto": " 0-6.0mm 330rpm"
+    },
+    {
+      "Texto": " 0-8.0mm 300rpm"
+    },
+    {
+      "Texto": "0-30.0mm 160rpm"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "Tipo": "PEGASUS",
+  "Titulo": "imagenes/Nantsune/Pegasus logo.png",
+  "Video": "url_video_1.mp4",
+  "Imagen": "imagenes/Nantsune/Pegasus.png",
+  "ImagenDimension": "url_imagen_elemento1.jpg",
+  "Caracteristicas": [
+    {
+      "Texto": "Compartimento para piezas de 350mm ancho, 180mm alto y 630mm largo."
+    },
+    {
+      "Texto": "Ideal para rebanar productos a una temperatura entre -1°C a 4°C."
+    },
+    {
+      "Texto": "El grosor y velocidad de rebanado se puede regular mediante su panel táctil."
+    },
+    {
+      "Texto": "Cuenta con un sistema de accionamiento por motor para alimentación del equipo."
+    },
+    {
+      "Texto": "Grosor de rebanado de 0.1 a 20 mm con velocidades de 40 a 65 rebanadas por minuto."
+    },
+    {
+      "Texto": "Los componentes se han diseñado para reducir el peso y realizar la limpieza en un lavabo estándar."
+    }
+  ],
+  "Espesor": [
+  ]
+}

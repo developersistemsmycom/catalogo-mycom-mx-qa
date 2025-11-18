@@ -1,0 +1,23 @@
+{
+"ImagenFondo":"/url",
+"TituloImagen":"/url",
+"Titulo":"Area Comercial",
+"Descripcion":"En Mayekawa ofrecemos una atención comercial integral, enfocada en brindar productos originales, soporte especializado y soluciones adaptadas a cada cliente. Nuestra experiencia en el sector industrial nos permite acompañarte en cada etapa de tu operación."
+"Elementos":
+[
+{"ImagenFondo":"url",
+"ImagenTitulo":"url",
+"ImagenMaquina":"url",
+"Nombre":"Compresores"},
+
+{"ImagenFondo":"url",
+"ImagenTitulo":"url",
+"ImagenMaquina":"url",
+"Nombre":"Servicio técnico"},
+
+{"ImagenFondo":"url",
+"ImagenTitulo":"url",
+"ImagenMaquina":"url",
+"Nombre":"Refacciones"}
+]
+}
