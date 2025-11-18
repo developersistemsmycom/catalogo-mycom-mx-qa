@@ -1,0 +1,28 @@
+{
+  "TituloImagen": "Proyectos",
+  "FondoImagen": "imagenes/Fondo-nantsune.png",
+  "Texto1": "Disenamos, fabricamos e instalamos sistemas especializados para procesos de refrigeracion, congelacion, automatizacion y mas.",
+  "Texto2": " Cada proyecto esto respaldado por nuestra ingenieria japonesa, equipo con experiencia y compromiso con la eficiencia operativa.",
+  "Texto3": "Nuestros equipos estan presentes en la industria carnica, pesquera y de alimentos procesados, operando en:",
+  "Elementos3": [
+    { "Texto": "Camaras de congelacion" },
+    { "Texto": "Sistemas de refrigeracion industrial" },
+    { "Texto": "Automatizacion de procesos" },
+    { "Texto": "Integracion de tecnologias sostenibles" }
+  ],
+  "Texto4": "Adaptamos cada solucion a las necesidades especificas del cliente, asegurando resultados optimos en desempeño, ahorro energetico y confiabilidad.",
+  "Texto5": "Nuestro equipo te acompaña desde el diseño hasta la puesta en marcha.",
+  "Elementos4": [
+    { "Texto": "Ingenieria a la medida" },
+    { "Texto": "Soluciones llave en mano" },
+    { "Texto": "Opreración eficiente y segura" }
+  ],
+  "Texto6": "Con Mayekawa, tu planta esta en buenas manos.",
+  "ImagenesCarrucel": [
+    { "url": "imagenes/Fondo-nantsune.png" },
+    { "url": "imagenes/Fondo-nantsune.png" },
+    { "url": "imagenes/Fondo-nantsune.png" },
+    { "url": "imagenes/Fondo-nantsune.png" },
+    { "url": "imagenes/Fondo-nantsune.png" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Tipo": "ARES_II",
+  "Titulo": "imagenes/Nantsune/Ares logo_1.png",
+  "Video": "url_video_1.mp4",
+  "Imagen": "imagenes/Nantsune/Ares.png",
+  "ImagenDimension": "url_imagen_elemento1.jpg",
+  "Caracteristicas": [
+    {
+      "Texto": "Compartimento de 36 mm de ancho."
+    },
+    {
+      "Texto": "Regula el espesor de tus rebanadas desde 0.1 mm."
+    },
+    {
+      "Texto": "Panel táctil para su fácil operación."
+    },
+    {
+      "Texto": "Realiza hasta 315 rebanadas por minuto"
+    },
+    {
+      "Texto": "La temperatura recomendada de carne es de -5°C a -2°C."
+    },
+    {
+      "Texto": "No requiere herramienta especial para su limpieza."
+    },
+    {
+      "Texto": "El inversor permite realizar el cambio de marcha según el grosor."
+    }
+  ],
+  "Espesor":[
+
+    {
+      "Texto": "0-3.0mm 315 rpm "
+    },
+    {
+      "Texto": "0-4.0mm 258 rpm"
+    },
+    {
+      "Texto": "0-15mm 200 rpm"
+    },
+    {
+      "Texto": "0-30 mm 140 rpm"
+    },
+    {
+      "Texto": "0-8.0mm 250 rpm"
+    }
+  ]
+}
